@@ -2,7 +2,7 @@
 
 ![LazyReader preview](assets/preview.png)
 
-## English
+## Intro(en)
 
 LazyReader is a local-first Reader Mac App prototype for collecting, organizing, reading, editing, and AI-processing research materials. It is currently a self-contained HTML prototype with a local Node proxy for DeepSeek calls.
 
@@ -65,7 +65,7 @@ Then use the AI sidebar, command palette, or selection actions in the prototype.
 
 ---
 
-## 中文
+## 介绍（中）
 
 LazyReader 是一个本地优先的 Reader Mac App 原型，用于采集、整理、阅读、编辑和 AI 处理研究资料。当前版本是一个自包含 HTML 交互原型，并带有一个用于调用 DeepSeek 的本地 Node 代理。
 
