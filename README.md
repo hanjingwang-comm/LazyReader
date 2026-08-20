@@ -2,7 +2,7 @@
 
 ![LazyReader preview](assets/preview.png)
 
-## English
+## Intro(en)
 
 LazyReader is a local-first Reader Mac App prototype for collecting, organizing, reading, editing, and extracting text from research materials. It is currently a self-contained HTML prototype with browser-side local state.
 
@@ -53,7 +53,7 @@ http://127.0.0.1:4318/reader-mac-app/Reader%20Mac%20App%20Prototype.html
 
 ---
 
-## 中文
+## 介绍（中）
 
 LazyReader 是一个本地优先的 Reader Mac App 原型，用于采集、整理、阅读、编辑和提取研究资料中的文字。当前版本是一个使用浏览器本地状态的自包含 HTML 交互原型。
 
